@@ -235,11 +235,6 @@ search.addEventListener('keyup', () => {
 
 ```
 
-
----
-## Source Code
-You can download the source code from [here.](https://codeload.github.com/asadnmalik/calculator/zip/refs/heads/main)
-
 ---
 ## Built With
 
@@ -247,9 +242,3 @@ You can download the source code from [here.](https://codeload.github.com/asadnm
 * CSS
 * Bootstrap
 * Javascript
-
----
-
-## Copyright, Author
-*Copyright 2021*, Muhammad Mutahir Ali, *All rights reserved.*
-
